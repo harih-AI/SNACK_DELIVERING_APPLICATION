@@ -8,12 +8,5 @@
 - **Snack Ordering**: Browse snacks, add to cart, and checkout with secure payment.
 - **Admin Panel**: View and manage placed orders.
 - **Customizable UI**: Built with Jetpack Compose for flexibility and modern UI design.
-- **Database Integration**: Uses Room Database and SQLite for user and order management.
-
-## Project Overview
-
-- **Developers**:
-  - R.HARIHARAN
-  - D.ARULSAKTHI
-- **Institution**: SRM TRP ENGINEERING COLLEGE,TRICHY
+- **Database Integration**: Uses Room Database and SQLite for user and order management.Y
 
